@@ -1,8 +1,9 @@
 {
   "domain": "xiaomi_vacuum",
-  "name": "Xiaomi Vacuum",
-  "documentation": "",
+  "name": "Xiaomi 1C STYTJ01ZHM",
+  "codeowners": ["@DavidConnack"],
+  "dependencies": [],
   "requirements": [],
-  "codeowners": ["@concentricc"],
-  "version": "1.0"
+  "iot_class": "local_polling",
+  "version": "2.0.0"
 }
